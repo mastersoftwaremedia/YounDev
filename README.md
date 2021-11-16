@@ -7,6 +7,7 @@ I am passionate about building interfaces that are user-friendly and pleasant fo
 > My Portfolio Link:  [my portfolio](https://mastersoftwaremedia.github.io/my-app).
 
 
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
