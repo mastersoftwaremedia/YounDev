@@ -4,7 +4,7 @@ My name is Youn and I'm a geek 🎩. I am a frontend and backend developer 👩�
 
 I am passionate about building interfaces that are user-friendly and pleasant for the most number of people as possible ❤️🍸. If you found value in what I have created, please feel free to email me @codingprofessional06@gmail.com
 
-> Checkout  [my portfolio](https://mastersoftwaremedia.github.io/my-app).
+> Want to know more about me? [Checkout my portfolio](https://mastersoftwaremedia.github.io/my-app).
 
 
 
