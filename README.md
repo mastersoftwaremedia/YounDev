@@ -6,8 +6,10 @@ I am passionate about building interfaces that are user-friendly and pleasant fo
 
 > My Portfolio Link:  [my portfolio](https://mastersoftwaremedia.github.io/my-app).
 
+
 ### Skills 
 - ⚛️ React 
 - :atom: Redux
+- :eight_spoked_asterisk: Vue
 - ::iphone: HTML 
 - :dart: CSS
