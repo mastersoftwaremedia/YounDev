@@ -2,7 +2,7 @@
 
 My name is Youn and I'm a geek 🎩. I am a frontend and backend developer 👩🏾‍💻  who spends so many hours a day in front of a computer 🧑🏾‍💻 to code and debug until I get the result that I need and want to get. I would dive fearlessly into the sea of chaotic world of coding whenever I face problems that might take days to solve 🔓. I believe if I really understand the logic behind the one coding language, I would have better learning experince than the the previous language learning experience that I had 🏆. 
 
-I am passionate about building interfaces that are user-friendly and pleasant for the most number of people as possible ❤️🍸. If you found value in what I have created, please feel free to email me @codingprofessional06@gmail.com
+I am passionate about building interfaces that are user-friendly and pleasant for the most number of people as possible ❤️🍸. If you found value in what I have created, please feel free to email me @codingdevpin@gmail.com
 
 > Want to know more about me? [Checkout my portfolio](https://mastersoftwaremedia.github.io/my-app).
 
